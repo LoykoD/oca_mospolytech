@@ -1,6 +1,0 @@
-﻿  OCA_3.cpp
-C:\Users\DLoyko\source\repos\OCA_3\OCA_3\OCA_3.cpp(121): warning C4715: List::FindByNameStudent: значение возвращается не при всех путях выполнения
-C:\Users\DLoyko\source\repos\OCA_3\OCA_3\OCA_3.cpp(137): warning C4715: List::FindByFacultStudent: значение возвращается не при всех путях выполнения
-C:\Users\DLoyko\source\repos\OCA_3\OCA_3\OCA_3.cpp(169): warning C4715: List::FindByNumberStudentGroupStudent: значение возвращается не при всех путях выполнения
-C:\Users\DLoyko\source\repos\OCA_3\OCA_3\OCA_3.cpp(153): warning C4715: List::FindByNumberStudentTicketStudent: значение возвращается не при всех путях выполнения
-  OCA_3.vcxproj -> C:\Users\DLoyko\source\repos\OCA_3\x64\Debug\OCA_3.exe
