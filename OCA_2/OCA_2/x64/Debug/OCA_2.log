@@ -1,0 +1,14 @@
+﻿  OCA_2.cpp
+C:\Users\DLoyko\source\repos\OCA_2\OCA_2\OCA_2.cpp(103,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\DLoyko\source\repos\OCA_2\OCA_2\OCA_2.cpp(103,28): warning C4309: инициализация: усечение константного значения
+C:\Users\DLoyko\source\repos\OCA_2\OCA_2\OCA_2.cpp(123,1): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\DLoyko\source\repos\OCA_2\OCA_2\OCA_2.cpp(123,28): warning C4309: инициализация: усечение константного значения
+C:\Users\DLoyko\source\repos\OCA_2\OCA_2\OCA_2.cpp(331,15): warning C4101: a: неиспользованная локальная переменная
+C:\Users\DLoyko\source\repos\OCA_2\OCA_2\OCA_2.cpp(145,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\DLoyko\source\repos\OCA_2\OCA_2\OCA_2.cpp(453): message : выполняется компиляция ссылки на экземпляр шаблон функции "Cinema *Database::FindMin<std::string>(TValue (__cdecl *)(Cinema))"
+          with
+          [
+              TValue=std::string
+          ]
+C:\Users\DLoyko\source\repos\OCA_2\OCA_2\OCA_2.cpp(98): warning C4715: Database::FindByMovieTitle: значение возвращается не при всех путях выполнения
+  OCA_2.vcxproj -> C:\Users\DLoyko\source\repos\OCA_2\x64\Debug\OCA_2.exe
